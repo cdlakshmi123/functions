@@ -27,4 +27,9 @@
 #     print("sum is",sum)
 # sum([2,3,4,5,2,3,1])
 
+a = int(input())
+b = int(input())
+
+
+print(a+b)
 
